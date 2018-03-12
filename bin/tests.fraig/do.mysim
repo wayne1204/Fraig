@@ -1,0 +1,156 @@
+cirr tests.fraig/sim01.aag
+cirsimu -f tests.fraig/pattern.01
+cirg 0
+cirg 1
+cirg 2
+cirg 3
+cirg 4
+cirg 5
+cirg 6
+cirg 7
+cirg 8
+cirg 9
+cirg 10
+cirp -fec
+cirr tests.fraig/sim02.aag -r
+cirsimu -f tests.fraig/pattern.02
+cirg 0
+cirg 1
+cirg 2
+cirg 3
+cirg 4
+cirg 5
+cirg 6
+cirg 7
+cirg 8
+cirp -fec
+cirr tests.fraig/sim03.aag -r
+cirsimu -f tests.fraig/pattern.03
+cirg 0
+cirg 1
+cirg 2
+cirg 3
+cirg 4
+cirg 5
+cirg 6
+cirg 7
+cirg 8
+cirg 9
+cirg 10
+cirp -fec
+cirr tests.fraig/sim04.aag -r
+cirsimu -f tests.fraig/pattern.04
+cirr tests.fraig/sim05.aag -r
+cirsimu -f tests.fraig/pattern.05
+cirr tests.fraig/sim06.aag -r
+cirsimu -f tests.fraig/pattern.06
+cirg 1
+cirg 2
+cirg 3
+cirg 4
+cirg 6
+cirg 8
+cirg 10
+cirg 100
+cirg 500
+cirg 1000
+cirg 2000
+cirp -fec
+cirr tests.fraig/sim07.aag -r
+cirsimu -f tests.fraig/pattern.07
+cirr tests.fraig/sim08.aag -r
+cirsimu -f tests.fraig/pattern.08
+cirp -fec
+cirg 0
+cirg 3
+usage
+cirr tests.fraig/sim09.aag -r
+cirsimu -f tests.fraig/pattern.09
+cirg 0
+cirg 1
+cirg 2
+cirg 3
+cirg 4
+cirg 6
+cirg 8
+cirg 10
+cirg 100
+cirg 500
+cirg 1000
+cirg 2000
+cirp -fec
+usage
+cirr tests.fraig/sim10.aag -r
+cirsimu -f tests.fraig/pattern.10
+cirp -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 3
+cirg 4
+cirg 6
+cirg 8
+cirg 10
+cirg 250
+cirg 100
+cirg 500
+usage
+cirr tests.fraig/sim11.aag -r
+cirsimu -f tests.fraig/pattern.11
+cirp -fec
+cirg 0
+usage
+cirr tests.fraig/sim12.aag -r
+cirsimu -f tests.fraig/pattern.12
+cirp -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 3
+cirg 10
+cirg 100
+cirg 200
+cirg 500
+cirg 1000
+usage
+cirr tests.fraig/sim13.aag -r
+cirsimu -f tests.fraig/pattern.13
+cirp -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 3
+cirg 10
+cirg 100
+cirg 200
+cirg 500
+cirg 1000
+cirg 10000
+usage
+cirr tests.fraig/sim14.aag -r
+cirsimu -f tests.fraig/pattern.14
+cirp -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 3
+cirg 10
+cirg 100
+cirg 200
+cirg 500
+cirg 928
+usage
+cirr tests.fraig/sim15.aag -r
+cirsimu -f tests.fraig/pattern.15
+cirp -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 3
+cirg 10
+cirg 100
+cirg 200
+cirg 456
+cirg 928
+usage
+q -f

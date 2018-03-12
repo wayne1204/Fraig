@@ -1,0 +1,16 @@
+cirp
+cirp -n
+cirp -PI
+cirp -PO
+cirp -FL
+cirg 1
+cirg 2
+cirg 9
+cirg 20
+cirg 1 -fanout 5
+cirg 2 -fanout 3
+cirg 4 -fanout 5
+cirg 5 -fanin 4
+cirg 10 -fanout 4
+cirg 20 -fanin 4
+USAGE

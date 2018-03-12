@@ -1,0 +1,15 @@
+cirr tests.err/flt01.aag -replace
+do tests.err/do1
+cirr tests.err/flt02.aag -replace
+do tests.err/do1
+cirr tests.err/flt03.aag -replace
+do tests.err/do1
+cirr tests.err/flt04.aag -replace
+do tests.err/do1
+cirr tests.err/flt05.aag -replace
+do tests.err/do1
+cirr tests.err/flt06.aag -replace
+do tests.err/do1
+cirr tests.err/flt07.aag -replace
+do tests.err/do1
+q -f

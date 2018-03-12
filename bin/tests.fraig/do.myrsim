@@ -1,0 +1,117 @@
+cirread tests.fraig/sim01.aag
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirread tests.fraig/sim02.aag -r
+cirsimulate -r
+cirprint -fec
+cirread tests.fraig/sim03.aag -r
+cirsimulate -r
+cirprint -fec
+cirread tests.fraig/sim04.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirread tests.fraig/sim05.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirread tests.fraig/sim06.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 10
+cirg 100
+cirg 1000
+usage
+cirread tests.fraig/sim07.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 10
+cirg 100
+cirg 1000
+usage
+cirread tests.fraig/sim08.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+usage
+cirread tests.fraig/sim09.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 10
+cirg 100
+cirg 1000
+usage
+cirread tests.fraig/sim10.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 10
+cirg 100
+cirg 500
+usage
+cirread tests.fraig/sim11.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 10
+cirg 100
+usage
+cirread tests.fraig/sim12.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 10
+cirg 100
+usage
+cirread tests.fraig/sim13.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 10
+cirg 100
+usage
+cirread tests.fraig/sim14.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 10
+cirg 100
+usage
+cirread tests.fraig/sim15.aag -r
+cirsimulate -r
+cirprint -fec
+cirg 0
+cirg 1
+cirg 2
+cirg 10
+cirg 100
+usage
+q -f

@@ -1,0 +1,6 @@
+cirr	swp01.aag
+cirp
+cirsweep
+cirg  1 -fanout 5
+cirg  2 -fanout 5
+cirp

@@ -1,0 +1,103 @@
+cirr tests.fraig/cirp-n.aag
+do tests.fraig/do1
+cirw -o write/cirp-nr.write
+cirr tests.fraig/opt01.aag -r
+do tests.fraig/do1
+cirw -o write/opt01r.write
+cirr tests.fraig/opt02.aag -r
+do tests.fraig/do1
+cirw -o write/opt02r.write
+cirr tests.fraig/opt03.aag -r
+do tests.fraig/do1
+cirw -o write/opt03r.write
+cirr tests.fraig/opt04.aag -r
+do tests.fraig/do1
+cirw -o write/opt04r.write
+cirr tests.fraig/opt05.aag -r
+do tests.fraig/do1
+cirw -o write/opt05r.write
+cirr tests.fraig/opt06.aag -r
+do tests.fraig/do1
+cirw -o write/opt06r.write
+cirr tests.fraig/sim01.aag -r
+do tests.fraig/do1
+cirw -o write/sim01r.write
+cirr tests.fraig/sim02.aag -r
+do tests.fraig/do1
+cirw -o write/sim02r.write
+cirr tests.fraig/sim03.aag -r
+do tests.fraig/do1
+cirw -o write/sim03r.write
+cirr tests.fraig/sim04.aag -r
+do tests.fraig/do1
+cirw -o write/sim04r.write
+cirr tests.fraig/sim05.aag -r
+do tests.fraig/do1
+cirw -o write/sim05r.write
+cirr tests.fraig/sim06.aag -r
+do tests.fraig/do1
+cirw -o write/sim06r.write
+cirr tests.fraig/sim07.aag -r
+do tests.fraig/do1
+cirw -o write/sim07r.write
+cirr tests.fraig/sim08.aag -r
+do tests.fraig/do1
+cirw -o write/sim08r.write
+cirr tests.fraig/sim09.aag -r
+do tests.fraig/do1
+cirw -o write/sim09r.write
+cirr tests.fraig/sim10.aag -r
+do tests.fraig/do1
+cirw -o write/sim10r.write
+cirr tests.fraig/sim11.aag -r
+do tests.fraig/do1
+cirw -o write/sim11r.write
+cirr tests.fraig/sim12.aag -r
+do tests.fraig/do1
+cirw -o write/sim12r.write
+cirr tests.fraig/sim13.aag -r
+do tests.fraig/do1
+cirw -o write/sim13r.write
+cirr tests.fraig/sim14.aag -r
+do tests.fraig/do1
+cirw -o write/sim14r.write
+cirr tests.fraig/sim15.aag -r
+do tests.fraig/do1
+cirw -o write/sim15r.write
+cirr tests.fraig/strash01.aag -r
+do tests.fraig/do1
+cirw -o write/strash01r.write
+cirr tests.fraig/strash02.aag -r
+do tests.fraig/do1
+cirw -o write/strash02r.write
+cirr tests.fraig/strash03.aag -r
+do tests.fraig/do1
+cirw -o write/strash03r.write
+cirr tests.fraig/strash04.aag -r
+do tests.fraig/do1
+cirw -o write/strash04r.write
+cirr tests.fraig/strash05.aag -r
+do tests.fraig/do1
+cirw -o write/strash05r.write
+cirr tests.fraig/strash06.aag -r
+do tests.fraig/do1
+cirw -o write/strash06r.write
+cirr tests.fraig/strash07.aag -r
+do tests.fraig/do1
+cirw -o write/strash07r.write
+cirr tests.fraig/strash08.aag -r
+do tests.fraig/do1
+cirw -o write/strash08r.write
+cirr tests.fraig/strash09.aag -r
+do tests.fraig/do1
+cirw -o write/strash09r.write
+cirr tests.fraig/strash10.aag -r
+do tests.fraig/do1
+cirw -o write/strash10r.write
+cirr tests.fraig/test1.aag -r
+do tests.fraig/do1
+cirw -o write/test1r.write
+cirr tests.fraig/test2.aag -r
+do tests.fraig/do1
+cirw -o write/test2r.write
+q -f

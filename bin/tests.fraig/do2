@@ -1,0 +1,19 @@
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirg 0 -fanout 5
+cirg 1 -fanout 5
+cirg 2 -fanout 5
+cirg 3 -fanout 5
+cirg 11 -fanin 5
+cirg 111 -fanin 5
+cirg 1111 -fanin 5

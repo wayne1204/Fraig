@@ -1,0 +1,108 @@
+cirread tests.fraig/sim01.aag 
+cirsimulate -r
+cirp
+cirp -n
+cirprint -fec
+usage
+cirfraig
+cirp
+cirp -n
+usage
+cirread tests.fraig/sim02.aag -r
+cirsimulate -r
+cirp
+cirp -n
+cirprint -fec
+usage
+cirfraig
+cirp
+cirp -n
+usage
+cirread tests.fraig/sim03.aag -r
+cirsimulate -r
+cirp
+cirp -n
+cirprint -fec
+usage
+cirfraig
+cirp
+cirp -n
+usage
+cirread tests.fraig/sim04.aag -r
+cirsimulate -r
+cirp
+cirp -n
+cirprint -fec
+usage
+cirfraig
+cirp
+cirp -n
+usage
+cirread tests.fraig/sim05.aag -r
+cirsimulate -r
+cirp
+cirp -n
+cirprint -fec
+usage
+cirfraig
+cirp
+cirp -n
+usage
+cirread tests.fraig/sim06.aag -r
+cirsimulate -r
+cirp
+cirp -n
+cirprint -fec
+usage
+cirfraig
+cirp
+cirp -n
+cirprint -fec
+usage
+cirread tests.fraig/sim07.aag -r
+cirsimulate -r
+cirp
+cirp -n
+cirprint -fec
+usage
+cirfraig
+cirp
+cirp -n
+cirprint -fec
+usage
+cirread tests.fraig/sim08.aag -r
+cirsimulate -r
+cirp
+cirp -n
+cirprint -fec
+usage
+cirfraig
+cirp
+cirp -n
+cirprint -fec
+usage
+cirread tests.fraig/sim09.aag -r
+cirsimulate -r
+cirp
+cirp -n
+cirprint -fec
+usage
+cirfraig
+cirp
+cirp -n
+cirprint -fec
+usage
+cirread tests.fraig/sim10.aag -r
+cirsimulate -r
+cirp
+cirp -n
+cirprint -fec
+usage
+cirfraig
+cirp
+cirp -n
+cirprint -fec
+usage
+q -f
+
+

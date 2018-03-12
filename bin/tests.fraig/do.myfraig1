@@ -1,0 +1,57 @@
+cirread tests.fraig/sim01.aag 
+cirsimu -f tests.fraig/pattern.01
+do tests.fraig/do6
+cirwrite -o write/sim01.log
+cirread tests.fraig/sim02.aag -r
+cirsimu -f tests.fraig/pattern.02
+do tests.fraig/do6
+cirwrite -o write/sim02.log
+cirread tests.fraig/sim03.aag -r
+cirsimu -f tests.fraig/pattern.03
+do tests.fraig/do6
+cirwrite -o write/sim03.log
+cirread tests.fraig/sim04.aag -r
+cirsimu -f tests.fraig/pattern.04
+do tests.fraig/do6
+cirwrite -o write/sim04.log
+cirread tests.fraig/sim05.aag -r
+cirsimu -f tests.fraig/pattern.05
+do tests.fraig/do6
+cirwrite -o write/sim05.log
+cirread tests.fraig/sim06.aag -r
+cirsimu -f tests.fraig/pattern.06
+do tests.fraig/do6
+cirwrite -o write/sim06.log
+cirread tests.fraig/sim07.aag -r
+cirsimu -f tests.fraig/pattern.07
+do tests.fraig/do6
+cirwrite -o write/sim07.log
+cirread tests.fraig/sim08.aag -r
+cirsimu -f tests.fraig/pattern.08
+do tests.fraig/do6
+cirwrite -o write/sim08.log
+cirread tests.fraig/sim09.aag -r
+cirsimu -f tests.fraig/pattern.09
+cirwrite -o write/sim09.log
+do tests.fraig/do6
+cirread tests.fraig/sim10.aag -r
+cirsimu -f tests.fraig/pattern.10
+cirwrite -o write/sim10.log
+do tests.fraig/do6
+cirread tests.fraig/sim11.aag -r
+cirsimu -f tests.fraig/pattern.11
+cirwrite -o write/sim11.log
+do tests.fraig/do6
+cirread tests.fraig/sim12.aag -r
+cirsimu -f tests.fraig/pattern.12
+cirwrite -o write/sim12.log
+do tests.fraig/do6
+cirread tests.fraig/sim14.aag -r
+cirsimu -f tests.fraig/pattern.14
+cirwrite -o write/sim14.log
+do tests.fraig/do6
+cirread tests.fraig/sim15.aag -r
+cirsimu -f tests.fraig/pattern.15
+cirwrite -o write/sim15.log
+do tests.fraig/do6
+q -f
